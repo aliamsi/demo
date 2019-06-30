@@ -1,0 +1,2 @@
+#closest zero
+print(min((abs(x), x) for x in l)[1])
